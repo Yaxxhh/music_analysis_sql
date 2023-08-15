@@ -8,5 +8,5 @@ In this project I have analyzed the music store dataset by writing PostgreSQL qu
 Question are present in the query only.
 
 # Database and Tools
-Postgre SQL
+Postgre SQL , 
 PgAdmin4
